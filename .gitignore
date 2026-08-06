@@ -10,8 +10,7 @@ __pycache__/
 *.pyd
 
 # Modèles sauvegardés (souvent trop lourds pour Git)
-models/*.pkl
-*.pkl
+
 
 # Données volumineuses
 data/
