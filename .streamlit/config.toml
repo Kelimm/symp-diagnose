@@ -1,0 +1,18 @@
+[theme]
+# Force la base du thème en mode clair
+base="light"
+
+# Couleur principale de l'application (boutons actifs, curseurs)
+primaryColor="#3182CE"
+
+# Couleur de fond de la page principale (un très léger bleu/gris pastel comme votre maquette)
+backgroundColor="#EDF2F7"
+
+# Couleur de fond de la barre latérale et des cartes d'information (blanc pur)
+secondaryBackgroundColor="#FFFFFF"
+
+# Couleur du texte principal
+textColor="#2D3748"
+
+# Police d'écriture standard épurée
+font="sans serif"
