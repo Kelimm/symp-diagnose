@@ -16,7 +16,7 @@ MALADIES_CLUSTER = MALADIES_CLUSTER
 @st.cache_resource
 def load_resources():
     # Chargement du modèle de Régression Logistique
-    model = joblib.load("models/Random_Forest.pkl")
+    model = joblib.load("models/logistic_regression.pkl")
     
     # Chargement de l'encodeur de labels
     label_encoder = joblib.load("models/label_encoder.pkl")
