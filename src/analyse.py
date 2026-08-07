@@ -25,7 +25,7 @@ except FileNotFoundError:
 
 
 def load_analyse_page():
-     @st.cache_resource
+    @st.cache_resource
     def load_local_models():
         model = joblib.load("models/logistic_regression.pkl")
         le = joblib.load("models/label_encoder.pkl")
