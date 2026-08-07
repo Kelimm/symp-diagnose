@@ -1,4 +1,6 @@
 # 🩺 Symptom-to-Disease Predictor
+---
+![Aperçu de l'app](./misc/enr.gif)
 
 Application web interactive permettant d'estimer une pathologie à partir d'une sélection de symptômes.
 
